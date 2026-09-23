@@ -1,7 +1,7 @@
 # 🤖 AIRA — Local AI Assistant
 
 <p align="center">
-  <img src="assets/aira-chatbot.png" alt="AIRA Chatbot" width="900"/>
+  <img src="aira-chatbot.png" alt="AIRA Chatbot" width="900"/>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ AIRA uses **Ollama** to run the Gemma 3:4B model locally and **LangChain** to co
 ## 🖥️ Application Preview
 
 <p align="center">
-  <img src="assets/aira-chatbot.png" alt="AIRA Chatbot Interface" width="900"/>
+  <img src="aira-chatbot.png" alt="AIRA Chatbot Interface" width="900"/>
 </p>
 
 ---
