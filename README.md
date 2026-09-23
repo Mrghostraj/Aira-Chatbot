@@ -247,8 +247,7 @@ AIRA/
 ├── README.md
 ├── .gitignore
 │
-└── assets/
-    └── aira-chatbot.png
+└── aira-chatbot.png
 ```
 
 ### `app.py`
