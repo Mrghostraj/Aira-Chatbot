@@ -1,4 +1,4 @@
-# 🤖 AIRA — Local AI Assistant
+# 🤖 AIRA — Local Chatbot
 
 <p align="center">
   <img src="aira-chatbot.png" alt="AIRA Chatbot" width="900"/>
