@@ -116,7 +116,7 @@ A GPU is optional, but a supported GPU can provide faster model inference.
 Open your terminal or command prompt:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AIRA.git
+git clone https://github.com/aira-chatbot/AIRA.git
 cd AIRA
 ```
 
